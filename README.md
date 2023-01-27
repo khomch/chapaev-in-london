@@ -1,3 +1,7 @@
+<img width="1512" alt="Screenshot 2023-01-27 at 15 37 46" src="https://user-images.githubusercontent.com/65286114/215126770-731dfc90-874e-4f63-bd3a-d11f7937eaea.png">
+<img width="1512" alt="Screenshot 2023-01-27 at 15 38 02" src="https://user-images.githubusercontent.com/65286114/215126791-ffaee9e0-13f0-469b-999d-02e948e5c84e.png">
+
+
 ### Как запускать?
 
 1. Убедитесь что у вас установлен `node` и `docker`
